@@ -1,0 +1,9 @@
+name: NightVision
+version: 0.1
+main: com.aaron.nv
+description: Donator Perk
+ 
+commands:
+    Nightvision:
+        aliases: [nv]
+        description: Give's a  player Night Vision
